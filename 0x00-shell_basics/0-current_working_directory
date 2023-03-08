@@ -1,2 +1,2 @@
-#! usr/bin/bash
-pwd -l 0-current_working_directory
+#!/bin/bash
+pwd -l 0-current_working_directory /n
