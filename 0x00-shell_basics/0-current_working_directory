@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd -l 0-current_working_directory /n
+pwd [lp]  0-current_working_directory /n
