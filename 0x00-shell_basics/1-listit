@@ -1,2 +1,2 @@
 #!/bin/bash
- cd .. ls -a 
+ls 1-listit /n
