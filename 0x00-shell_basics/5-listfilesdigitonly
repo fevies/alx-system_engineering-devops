@@ -1,2 +1,3 @@
-#!/bin/bash
-ls -nd /0x00-shell_basics
+#stfilesdigitonly
+i!/bin/bash
+ls -an
